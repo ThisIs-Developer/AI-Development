@@ -1,1 +1,51 @@
-d
+
+sl 	Program 
+1 	Create a program that displays your name and complete mailing address formatted in the manner that you would usually see it on the outside of an envelope. Your program does not need to read any input from the user. 
+2 	Write  a  program  that  asks  the  user  to  enter  his  or  her  name.  The  program  should respond with  a message that  says  hello  to the user,  using  his  or  her  name. 
+3 	Write a program that asks the user to enter the width and length of a room. Once  the values have been read, your program should compute and display the area of the room. The length and the width will be entered as floating point numbers. Include units in your prompt and output message; either feet or meters, depending on which unit you are more comfortable working with. 
+4 	Create a program that reads the length and width of a farmer’s field from the user in feet. Display the area of the field in acres. Hint: There are 43,560 square feet in an acre. 
+5 	In many jurisdictions a small deposit is added to drink containers to encourage people to recycle them. In one particular jurisdiction, drink containers holding one liter or less have a $0.10 deposit, and drink containers holding more than one litre have a $0.25 deposit. Write a program that reads the number of containers of each size from the user. Your program should continue by computing and displaying the refund that will be received for returning those containers. Format the output so that it includes a dollar sign and always displays exactly two decimal places. 
+6 	The program that you create for this exercise will begin by reading the cost of a meal ordered at a restaurant from the user. Then your program will compute the tax and tip for the meal. Use your local tax rate when computing the amount of tax owing. Compute the tip as 18 percent of the meal amount (without the tax). The output from your program should include the tax amount, the tip amount, and the grand total for the meal including both the tax and the tip. Format the output so that all of the values are displayed using two decimal places. 
+7 	  
+8 	An online retailer sells two products: widgets and gizmos. Each widget weighs 75  grams. Each gizmo weighs 112 grams. Write a program that reads the number of  widgets and the number of gizmos in an order from the user. Then your program  should compute and display the total weight of the order. 
+9 	Pretend that you have just opened a new savings account that earns 4 percent interest per year. The interest that you earn is paid at the end of the year, and is added to the balance of the savings account. Write a program that begins by reading the amount of money deposited into the account from the user. Then your program should compute and display the amount in the savings account after 1, 2, and 3 years. Display each amount so that it is rounded to 2 decimal places. 
+10 	Create a program that reads two integers, a and b, from the user. Your program should  
+
+	compute and  display: 
+•	The sum  of a and b 
+•	The difference  when b is  subtracted from a 
+•	The product  of a and  b 
+•	The quotient  when a is divided  by b 
+•	The remainder  when a is divided  by b 
+•	The result  of  log10 a 
+•	The result  of ab    
+Hint: You will probably find the log10 function in the math module helpful  for  computing the  second last  item in the  list. 
+11 	In the United States, fuel efficiency for vehicles is normally expressed in milespergallon (MPG). In Canada, fuel efficiency is normally expressed in liters-perhundred kilometers (L/100 km). Use your research skills to determine how to convert from MPG to L/100 km. Then create a program that reads a value from the user in American units and displays the equivalent fuel efficiency in Canadian units. 
+12 	The surface of the Earth is curved, and the distance between degrees of longitude  varies with latitude. As a result, finding the distance between two points on the surface of the Earth is more complicated than simply using the Pythagorean 
+theorem.Let (t1 , g1 ) and (t2 , g2 ) be the latitude and longitude of two points on the Earth’s surface. The distance between these points, following the surface of the Earth, in kilometers is: 
+distance = 6371.01 × arccos(sin(t1 ) × sin(t2 ) + cos(t1 ) × cos(t2 ) × cos(g1 − g2 )) Create a program that allows the user to enter the latitude and longitude of two  points on the Earth in degrees. Your program should display the distance between  the points, following the surface of the earth, in kilometers. 
+Hint: Python’s trigonometric functions operate in radians. As a result, you will  need to convert the user’s input from degrees to radians before computing the  distance with the formula discussed previously. The math module contains a  function named radians which converts from degrees to radians. 
+12 	Consider the software that runs on a self-checkout machine. One task that it must be  able to perform is to determine how much change to provide when the shopper pays  for a purchase with cash. 
+Write a program that begins by reading a number of cents from the user as an  integer. Then your program should compute and display the denominations of the  coins that should be used to give that amount of change to the shopper. The change  should be given using as few coins as possible. Assume that the machine is loaded  with pennies, nickels, dimes, quarters, loonies and toonies. 
+A one dollar coin was introduced in Canada in 1987. It is referred to as a  loonie because one side of the coin has a loon (a type of bird) on it. The two  dollar coin, referred to as a toonie, was introduced 9 years later. It’s name is  derived from the combination of the number two and the name of the loonie. 
+13 	Many people think about their height in feet and inches, even in some countries that  primarily use the metric system. Write a program that reads a number of feet from  the user, followed by a number of inches. Once these values are read, your program  should compute and display the equivalent number of centimeters. 
+Hint: One foot  is 12 inches. One inch is  2.54 centimeters. 
+14 	In this exercise, you will create a program that begins by reading a measurement  in feet from the user. Then your program should display the equivalent distance in  inches, yards and miles. Use the Internet to look up the necessary conversion factors  if you don’t have them memorized. 
+15 	Write a program that begins by reading a radius, r , from the user. The program will  continue by computing and displaying the area of a circle with radius r and the  volume of a sphere with radius r . Use the pi constant in the math module in your  
+
+	calculations. 
+Hint:  The  area  of  a  circle  is  computed  using  the  formula  area =   π r 2 .  The volume  of  a sphere  is computed using the  formula volume = 4/3 πr3  
+16 	The volume of a cylinder can be computed by multiplying the area of its circular  base by its height. Write a program that reads the radius of the cylinder, along with  its height, from the user and computes its volume. Display the result rounded to one  decimal place. 
+20 	  
+21 	  
+22 	  
+23 	In this exercise you will reverse the process described in the previous exercise.  Develop a program that begins by reading a number of seconds from the user.  Then your program should display the equivalent amount of time in the form  D:HH:MM:SS, where D, HH, MM, and SS represent days, hours, minutes and sec-  onds respectively. The hours, minutes and seconds should all be formatted so that  they occupy exactly two digits, with a leading 0 displayed if necessary. 
+24 	Python includes a library of functions for working with time, including a function  called asctime in the time module. It reads the current time from the com-  puter’s internal clock and returns it in a human-readable format. Write a program  that displays the current time and date. Your program will not require any input from the user. 
+25 	  
+26 	Write a program that begins by reading a temperature from the user in degrees  
+Celsius. Then your program should display the equivalent temperature in degrees  Fahrenheit and degrees Kelvin. The calculations needed to convert between different  units of temperature can be found on the internet. 
+27 	Develop a program that reads a four-digit integer from the user and displays the sum  of the digits in the number. For example, if the user enters 3141 then your program  should display 3 + 1 + 4 + 1 = 9. 
+28 	Create a program that reads three integers from the user and displays them in sorted  order (from smallest to largest). Use the min and max functions to find the smallest  and largest values. The middle value can be found by computing the sum of all three  values, and then subtracting the minimum value and the maximum value. 
+29 	In this exercise you will create a program that reads a pressure from the user in kilo-  pascals. Once the pressure has been read your program should report the equivalent  pressure in pounds per square inch, millimeters of mercury and atmospheres. Use  your research skills to determine the conversion factors between these units. 
+30 	Create a program that reads three integers from the user and displays them in sorted  order (from smallest to largest). Use the min and max functions to find the smallest  and largest values. The middle value can be found by computing the sum of all three  values, and then subtracting the minimum value and the maximum value. 
+ 
