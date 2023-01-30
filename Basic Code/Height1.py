@@ -1,0 +1,5 @@
+ft = int(input("Enter your hieght in Feet : "))
+inch = int(input("Enter your hieght in Inches : "))
+inch+= (ft*12)
+cm = (inch*2.54)
+print("Your height is : %d cm11" %cm)
