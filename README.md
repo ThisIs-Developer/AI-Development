@@ -68,3 +68,5 @@ To run tests, run the following command
 ```bash
   import time 
 ```
+
+![1_m0H6-tUbW6grMlezlb52yw](https://user-images.githubusercontent.com/109382325/215742763-dae806ba-d3ce-4a8c-a530-3e239b6eb4e9.png)
