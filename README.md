@@ -3,6 +3,7 @@
 
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum.
 
+![1_m0H6-tUbW6grMlezlb52yw](https://user-images.githubusercontent.com/109382325/215742899-e230a6af-0d20-4792-b6b4-a2690ac6d185.png)
 
 ## Author
 
@@ -68,5 +69,3 @@ To run tests, run the following command
 ```bash
   import time 
 ```
-
-![1_m0H6-tUbW6grMlezlb52yw](https://user-images.githubusercontent.com/109382325/215742763-dae806ba-d3ce-4a8c-a530-3e239b6eb4e9.png)
