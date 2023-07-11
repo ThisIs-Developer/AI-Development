@@ -9,11 +9,17 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 - [@ThisIs-Developer](https://github.com/ThisIs-Developer)
 
+## AI
 
-## Demo
+Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
 
-print("Hey,ThisIs-Developer")
+## Machine learning
 
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
+## Deep learning
+
+Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
 
 ## Deployment
 
