@@ -21,6 +21,8 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 
 Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
 
+![AI-vs-ML-vs-Deep-Learning](https://github.com/ThisIs-Developer/Python/assets/109382325/d88bbfe7-b54e-4887-8c2b-1f915448665d)
+
 ## Deployment
 
 Download PIP get-pip.py
