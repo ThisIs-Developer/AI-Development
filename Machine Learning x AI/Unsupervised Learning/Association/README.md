@@ -5,5 +5,6 @@ Association rule learning is a type of unsupervised learning technique that chec
  - Apriori
  - Eclat
  - F-P Growth Algorithm
+## Apriori algorithms image
 ![figure-01](https://github.com/ThisIs-Developer/Python/assets/109382325/05eeecb3-df96-4d44-91b1-d1fabf63aa6d)
 
