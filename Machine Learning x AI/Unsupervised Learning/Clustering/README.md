@@ -6,6 +6,8 @@ Clustering in machine learning is the process of grouping similar data points to
      - (i) Agglomerative
  - (B) Centroid Model
      - (i) K-Means
+       \
+       \
      ![download](https://github.com/ThisIs-Developer/Python/assets/109382325/bb3fe7ef-2fd1-411d-bf26-ac638035a1c4)
 
  - (C) Density Model
