@@ -3,3 +3,4 @@ Reinforcement learning is a machine learning training method based on rewarding 
 ## Types of Reinforcement Learning Algorithms:
  - 1. Positive
  - 2. Negative
+![Reinforcement-Learning-Model](https://github.com/ThisIs-Developer/Python/assets/109382325/e50c8238-a370-4481-b70f-cd6e186a2213)
