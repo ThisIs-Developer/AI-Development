@@ -1,6 +1,4 @@
 ## Unsupervised Learning
-![1_4yFCbNwp0gGdGR5KbquFHA](https://github.com/ThisIs-Developer/Python/assets/109382325/88fdff62-696f-4726-9f94-9eadd382caf6)
-
 Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.
  - Its ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cross-selling strategies, customer segmentation, and image recognition.
 ## Types of Unsupervised Learning Algorithm:
@@ -17,3 +15,5 @@ Unsupervised learning is a type of machine learning in which models are trained 
  - Independent Component Analysis
  - Apriori algorithm
  - Singular value decomposition
+
+![1_4yFCbNwp0gGdGR5KbquFHA](https://github.com/ThisIs-Developer/Python/assets/109382325/88fdff62-696f-4726-9f94-9eadd382caf6)
