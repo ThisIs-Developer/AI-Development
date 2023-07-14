@@ -5,7 +5,8 @@ Supervised learning is the types of machine learning in which machines are train
  - 1.Regression
  - 2.Classification
 \
-   ![download](https://github.com/ThisIs-Developer/Python/assets/109382325/a51238d2-17dd-43f3-8e3c-c0a34e7a119d)
+![download (1)](https://github.com/ThisIs-Developer/Python/assets/109382325/aaaae9fb-f367-4bef-825f-2405ff597d03)
+
 ## 1.Regression
  - Linear Regression
  - Regression Trees
