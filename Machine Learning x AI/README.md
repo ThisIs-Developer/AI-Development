@@ -8,3 +8,8 @@ In a supervised learning model, the algorithm learns on a labeled dataset, to ge
 ## 2. Unsupervised Learning
 In an unsupervised learning model, the algorithm learns on an unlabeled dataset and tries to make sense by extracting features, co-occurrence, and underlying patterns on its own.
 ![1_31iqrQyCqIuuGPLUK_BjMQ](https://github.com/ThisIs-Developer/Python/assets/109382325/4e36f6aa-90c3-44b9-bc84-bd738cc2237d)
+## 3. Reinforcement Learning
+Reinforcement learning is a type of machine learning where the model learns to behave in an environment by performing some actions and analyzing the reactions. RL takes appropriate action in order to maximize the positive response in the particular situation.
+![1_7cuAqjQ97x1H_sBIeAVVZg](https://github.com/ThisIs-Developer/Python/assets/109382325/2f07d2a5-7edd-4460-8d89-db51e6036cbe)
+
+
