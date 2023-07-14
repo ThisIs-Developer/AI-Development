@@ -5,3 +5,13 @@ Unsupervised learning is a type of machine learning in which models are trained 
  - 1.Association
  - 2.Clustering
 ![1_3_oFFiMPYeuQMRJitYPt6Q](https://github.com/ThisIs-Developer/Python/assets/109382325/ed35deb9-a879-4dfd-9f7d-4f16a36c2fc1)
+## Unsupervised Learning algorithms:
+ - K-means clustering
+KNN (k-nearest neighbors)
+Hierarchal clustering
+Anomaly detection
+Neural Networks
+Principle Component Analysis
+Independent Component Analysis
+Apriori algorithm
+Singular value decomposition
