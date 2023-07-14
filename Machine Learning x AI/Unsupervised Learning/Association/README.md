@@ -7,3 +7,4 @@ Association rule learning is a type of unsupervised learning technique that chec
  - F-P Growth Algorithm
 
 ![220px-FrequentItems](https://github.com/ThisIs-Developer/Python/assets/109382325/f33c9223-f86f-4ef7-ba11-98a438e9a932)
+![figure-01](https://github.com/ThisIs-Developer/Python/assets/109382325/7fbd15d5-a5b7-4cfa-8b35-7785399dd5a2)
