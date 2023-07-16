@@ -9,12 +9,12 @@ Neural networks, also known as artificial neural networks (ANNs) or simulated ne
 Types of Algorithms used in Deep Learning
 ## Here is the list of top 10 most popular deep learning algorithms:
 1. Convolutional Neural Networks (CNNs)
-Long Short Term Memory Networks (LSTMs)
-Recurrent Neural Networks (RNNs)
-Generative Adversarial Networks (GANs)
-Radial Basis Function Networks (RBFNs)
-Multilayer Perceptrons (MLPs)
-Self Organizing Maps (SOMs)
-Deep Belief Networks (DBNs)
-Restricted Boltzmann Machines( RBMs)
-Autoencoders
+2. Long Short Term Memory Networks (LSTMs)
+3. Recurrent Neural Networks (RNNs)
+4. Generative Adversarial Networks (GANs)
+5. Radial Basis Function Networks (RBFNs)
+6. Multilayer Perceptrons (MLPs)
+7. Self Organizing Maps (SOMs)
+8. Deep Belief Networks (DBNs)
+9. Restricted Boltzmann Machines( RBMs)
+10. Autoencoders
