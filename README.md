@@ -17,7 +17,7 @@ Artificial intelligence is the simulation of human intelligence processes by mac
 
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
-## Deep learning [!Actions Status(https://github.com/ThisIs-Developer/Python/tree/main/Deep%20Learning%20x%20Neural%20Networks)]
+## Deep learning
 
 Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
 
