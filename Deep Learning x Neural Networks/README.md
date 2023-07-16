@@ -18,3 +18,4 @@ Types of Algorithms used in Deep Learning
 8. Deep Belief Networks (DBNs)
 9. Restricted Boltzmann Machines( RBMs)
 10. Autoencoders
+![253814807-a5deb7a9-c230-4679-99a](https://github.com/ThisIs-Developer/Python/assets/109382325/ce030e7f-25d2-46ac-882a-4e48c121c1e7)
