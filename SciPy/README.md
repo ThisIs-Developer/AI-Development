@@ -8,3 +8,12 @@ SciPy stands for Scientific Python.It provides more utility functions for optimi
 ```bash
   python -m pip install scipy
 ```
+## INSTALLING VIA CONDA
+```bash
+  conda install scipy
+```
+## UBUNTU AND DEBIAN
+```bash
+  sudo apt-get install python3-scipy
+```
+![image](https://github.com/ThisIs-Developer/Python/assets/109382325/545e08d7-8f34-4a4d-bd1f-d8566f5aa1c9)
