@@ -1,4 +1,4 @@
-## Machine learning
+# Machine learning
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 ![introduction-to-machine-learning2](https://github.com/ThisIs-Developer/Python/assets/109382325/25b5a706-a917-4138-8028-30ef9b120324)
 ## Types of Machine Learning
