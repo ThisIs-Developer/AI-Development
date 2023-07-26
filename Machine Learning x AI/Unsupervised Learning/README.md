@@ -1,5 +1,5 @@
-## Unsupervised Learning
-Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.
+# Unsupervised Learning
+**Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.**
  - Its ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cross-selling strategies, customer segmentation, and image recognition.
 ## Types of Unsupervised Learning Algorithm:
  - 1.Association
