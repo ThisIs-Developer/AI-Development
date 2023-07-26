@@ -1,4 +1,3 @@
-
 # Python [![Actions Status](https://github.com/cfgnunes/numerical-methods-python/workflows/build/badge.svg)](https://github.com/ThisIs-Developer/Python)
 
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum.
