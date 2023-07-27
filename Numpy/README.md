@@ -16,3 +16,5 @@
   import numpy
   numpy.version.version
 ```
+## Numerical Computing with Python and Numpy
+![image](https://github.com/ThisIs-Developer/Python/assets/109382325/15fc508f-6fa6-4324-9102-10580a921b79)
