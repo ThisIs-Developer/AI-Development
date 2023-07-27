@@ -11,3 +11,8 @@
 ```bash
   pip install numpy
 ```
+## Check version
+```bash
+  import numpy
+  numpy.version.version
+```
