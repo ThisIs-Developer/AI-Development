@@ -76,4 +76,5 @@ To run tests, run the following command
 ```bash
   import time 
 ```
-![image](https://github.com/ThisIs-Developer/Python/assets/109382325/f14c3514-019c-4bf0-9b35-b36e1e7560ee)
+![image](https://github.com/ThisIs-Developer/Python/assets/109382325/3ef1c159-214a-4f92-818a-1d244a3270bc)
+
