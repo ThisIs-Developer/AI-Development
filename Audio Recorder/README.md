@@ -18,15 +18,19 @@
 **A library for reading and writing audio files in various formats (e.g., WAV, FLAC, Ogg Vorbis, etc.).**
 ## LibROSA
 **A library for audio and music analysis, providing tools for feature extraction, spectral analysis, and more.**
+## pydub
+**A library for audio processing that provides simple audio file manipulation, such as concatenation, conversion, and filtering.**
+## audioread
+**A library for decoding audio files, which can be used to read audio data from various formats without worrying about the specific format details.**
+## pyAudioAnalysis
+**A library for audio feature extraction, classification, and segmentation.**
+## Essentia
+**An open-source library for audio analysis and audio-based music information retrieval tasks.**
+##vMadmom
+**A library for music information retrieval tasks, including beat and onset detection, chord recognition, and more.**
+## Aubio
+**A library for audio analysis, particularly focused on onset detection, pitch estimation, and beat tracking.**
 
-Essentia: An open-source library for audio analysis and audio-based music information retrieval tasks.
 
-Aubio: A library for audio analysis, particularly focused on onset detection, pitch estimation, and beat tracking.
 
-Madmom: A library for music information retrieval tasks, including beat and onset detection, chord recognition, and more.
 
-pydub: A library for audio processing that provides simple audio file manipulation, such as concatenation, conversion, and filtering.
-
-audioread: A library for decoding audio files, which can be used to read audio data from various formats without worrying about the specific format details.
-
-pyAudioAnalysis: A library for audio feature extraction, classification, and segmentation.
