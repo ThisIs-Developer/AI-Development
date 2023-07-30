@@ -10,6 +10,8 @@
  * [Essentia](https://pypi.org/project/essentials/)
  * [Madmom](https://pypi.org/project/madmom/)
  * [Aubio](https://pypi.org/project/aubio/)
+ * ![download (1)](https://github.com/ThisIs-Developer/Python/assets/109382325/8b8f8f44-274e-4d6f-9c63-d6da955c87a0)
+
 ## PyAudio
 **A library for working with audio input/output, including audio recording and playback using the PortAudio library.**
 ## SoundDevice
