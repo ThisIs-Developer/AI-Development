@@ -10,22 +10,14 @@
  * [Essentia](https://pypi.org/project/essentials/)
  * [Madmom](https://pypi.org/project/madmom/)
  * [Aubio](https://pypi.org/project/aubio/)
-\
-![image](https://github.com/ThisIs-Developer/Python/assets/109382325/b1406c1c-c15d-4788-8caa-3d54fd7bdbad)
 ## PyAudio
-**PyAudio provides Python bindings for PortAudio v19, the cross-platform audio I/O library. With PyAudio, you can easily use Python to play and record audio on a variety of platforms, such as GNU/Linux, Microsoft Windows, and Apple macOS.**
-
-Here are some popular Python libraries for audio processing:
-
-PyAudio: A library for working with audio input/output, including audio recording and playback using the PortAudio library.
-
-SoundDevice: A library for real-time audio input/output, similar to PyAudio but with a different API.
-
-SoundFile: A library for reading and writing audio files in various formats (e.g., WAV, FLAC, Ogg Vorbis, etc.).
-
-SciPy: A scientific computing library that includes the scipy.io.wavfile module for reading and writing WAV audio files.
-
-LibROSA: A library for audio and music analysis, providing tools for feature extraction, spectral analysis, and more.
+**A library for working with audio input/output, including audio recording and playback using the PortAudio library.**
+##SoundDevice
+**A library for real-time audio input/output, similar to PyAudio but with a different API**
+## SoundFile
+**A library for reading and writing audio files in various formats (e.g., WAV, FLAC, Ogg Vorbis, etc.).**
+## LibROSA
+**A library for audio and music analysis, providing tools for feature extraction, spectral analysis, and more.**
 
 Essentia: An open-source library for audio analysis and audio-based music information retrieval tasks.
 
