@@ -1,4 +1,5 @@
 # Audio Recorder
+![spectrogram](https://github.com/ThisIs-Developer/Python/assets/109382325/07b2ca5d-0180-4315-81cc-2e553de304d6)
 ## Notebook involves recording audio using the floowing libraries:
  * [PyAudio](https://pypi.org/project/PyAudio/)
  * [SoundDevice](https://pypi.org/project/sounddevice/)
