@@ -10,7 +10,7 @@
  * [Essentia](https://pypi.org/project/essentials/)
  * [Madmom](https://pypi.org/project/madmom/)
  * [Aubio](https://pypi.org/project/aubio/)
-
+\
 ![image](https://github.com/ThisIs-Developer/Python/assets/109382325/b1406c1c-c15d-4788-8caa-3d54fd7bdbad)
 ## PyAudio
 **PyAudio provides Python bindings for PortAudio v19, the cross-platform audio I/O library. With PyAudio, you can easily use Python to play and record audio on a variety of platforms, such as GNU/Linux, Microsoft Windows, and Apple macOS.**
