@@ -26,7 +26,7 @@
 **A library for audio feature extraction, classification, and segmentation.**
 ## Essentia
 **An open-source library for audio analysis and audio-based music information retrieval tasks.**
-##vMadmom
+## Madmom
 **A library for music information retrieval tasks, including beat and onset detection, chord recognition, and more.**
 ## Aubio
 **A library for audio analysis, particularly focused on onset detection, pitch estimation, and beat tracking.**
