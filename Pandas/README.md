@@ -12,3 +12,6 @@
   import pandas
   pandas.__version__
 ```
+## Pandas DataFrame
+**DataFrame is the most widely used data structure in Python pandas. You can imagine it as a table in a database or a spreadsheet.**
+![image](https://github.com/ThisIs-Developer/Python/assets/109382325/38271a7a-cec5-49c2-b5fc-947f2692d398)
