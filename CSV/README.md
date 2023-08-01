@@ -11,4 +11,5 @@ John, 30, Engineer
 Alice, 25, Teacher
 Bob, 35, Doctor
 ```
+
 ![image](https://github.com/ThisIs-Developer/Python/assets/109382325/2cf27256-61f7-470f-a012-57b7a7b48367)
