@@ -6,9 +6,4 @@
   pip install opencv-python
 '''
 ## Usage
-![Uploading bitwise_XOR.png…]()
-![Uploading bitwise_NOT.png…]()
-![subtracted_image](https://github.com/ThisIs-Developer/Python/assets/109382325/3984f0b1-2ecb-4b7d-ac0f-a86d6e394f1c)
-![Uploading addition_image.png…]()
-![Uploading bitwise_AND.png…]()
-![Uploading bitwise_OR.png…]()
+![bitwise_NOT](https://github.com/ThisIs-Developer/Python/assets/109382325/84ec9507-f3e0-4910-81e3-60ce55be17aa)
