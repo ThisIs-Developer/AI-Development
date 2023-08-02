@@ -7,3 +7,5 @@
 '''
 ## Usage
 ![bitwise_NOT](https://github.com/ThisIs-Developer/Python/assets/109382325/84ec9507-f3e0-4910-81e3-60ce55be17aa)
+![bitwise_OR](https://github.com/ThisIs-Developer/Python/assets/109382325/c7b174db-2bac-48a1-b279-88319c6b1584)
+
