@@ -10,18 +10,20 @@
 ## 🌟OpenCV🎨the Magic of Images
 **Addition Image** 
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
-**Note:** Subtraction Code is also available
-```bash
-image2 = cv2.resize(image2, (image1.shape[1], image1.shape[0]))
-if image1.shape[2] == 1:
-    image1 = cv2.cvtColor(image1, cv2.COLOR_GRAY2BGR)
-weightedSum = cv2.addWeighted(image1, 0.5, image2, 0.4, 0)
-cv2.imshow('Weighted Image', weightedSum)
-if cv2.waitKey(0) & 0xFF == 27:
-    cv2.destroyAllWindows()
-# Convert BGR image to RGB for plotting using matplotlib
-weightedSum_rgb = cv2.cvtColor(weightedSum, cv2.COLOR_BGR2RGB)
-```
 ![addition_image](https://github.com/ThisIs-Developer/Python/assets/109382325/a426f3ca-d1a7-4a46-863b-f899ecb263a6)
-
+**Subtraction Image** 
+**Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+![subtracted_image](https://github.com/ThisIs-Developer/Python/assets/109382325/ef5fc57a-bcd8-4004-8b4f-62d13bf9e5a2)
+**Bitwise OR Image** 
+**Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+![bitwise_OR](https://github.com/ThisIs-Developer/Python/assets/109382325/0303e2dc-be00-484b-b5c6-80debff302f5)
+**Bitwise AND Image** 
+**Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+![bitwise_AND](https://github.com/ThisIs-Developer/Python/assets/109382325/ab2dc562-6b88-426b-a910-c544c5b33e6c)
+**Bitwise XOR Image** 
+**Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+![bitwise_XOR](https://github.com/ThisIs-Developer/Python/assets/109382325/83d283ec-7fa4-4d84-ad7e-06950427e544)
+**Bitwise NOR Image** 
+**Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+![bitwise_NOT](https://github.com/ThisIs-Developer/Python/assets/109382325/ef6a1607-a0c0-4952-8b2d-a9d7fb6fc66c)
 
