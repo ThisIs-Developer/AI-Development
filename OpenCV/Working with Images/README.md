@@ -6,10 +6,21 @@
   pip install opencv-python
 ```
 ## Image that are used
-![Mario](https://github.com/ThisIs-Developer/Python/assets/109382325/c25fdbb8-2826-4a62-95e2-623de423e532)![jake](https://github.com/ThisIs-Developer/Python/assets/109382325/dfba1ed6-00c3-4fe1-957b-2b3f995661c0)
+![GridArt_20230804_220521622](https://github.com/ThisIs-Developer/Python/assets/109382325/c3888daa-f8e1-4f5f-ab05-8f2558848046)
+## 🌟OpenCV🎨the Magic of Images
+**Addition Image**
+```bash
+image2 = cv2.resize(image2, (image1.shape[1], image1.shape[0]))
+if image1.shape[2] == 1:
+    image1 = cv2.cvtColor(image1, cv2.COLOR_GRAY2BGR)
+weightedSum = cv2.addWeighted(image1, 0.5, image2, 0.4, 0)
+cv2.imshow('Weighted Image', weightedSum)
+if cv2.waitKey(0) & 0xFF == 27:
+    cv2.destroyAllWindows()
 
-
-## Usage
+# Convert BGR image to RGB for plotting using matplotlib
+weightedSum_rgb = cv2.cvtColor(weightedSum, cv2.COLOR_BGR2RGB)
+```
 ![bitwise_NOT](https://github.com/ThisIs-Developer/Python/assets/109382325/84ec9507-f3e0-4910-81e3-60ce55be17aa)
 ![bitwise_OR](https://github.com/ThisIs-Developer/Python/assets/109382325/c7b174db-2bac-48a1-b279-88319c6b1584)
 
