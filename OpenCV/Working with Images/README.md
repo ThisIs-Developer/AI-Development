@@ -5,6 +5,10 @@
 ```bash
   pip install opencv-python
 ```
+## Image that are used
+![Mario](https://github.com/ThisIs-Developer/Python/assets/109382325/c25fdbb8-2826-4a62-95e2-623de423e532)![jake](https://github.com/ThisIs-Developer/Python/assets/109382325/dfba1ed6-00c3-4fe1-957b-2b3f995661c0)
+
+
 ## Usage
 ![bitwise_NOT](https://github.com/ThisIs-Developer/Python/assets/109382325/84ec9507-f3e0-4910-81e3-60ce55be17aa)
 ![bitwise_OR](https://github.com/ThisIs-Developer/Python/assets/109382325/c7b174db-2bac-48a1-b279-88319c6b1584)
