@@ -9,7 +9,8 @@
 ![GridArt_20230804_220521622](https://github.com/ThisIs-Developer/Python/assets/109382325/c3888daa-f8e1-4f5f-ab05-8f2558848046)
 ## 🌟OpenCV🎨the Magic of Images
 **Addition Image** 
-**Source Code:[OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+**Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
+**Note:** Subtraction Code is also available
 ```bash
 image2 = cv2.resize(image2, (image1.shape[1], image1.shape[0]))
 if image1.shape[2] == 1:
