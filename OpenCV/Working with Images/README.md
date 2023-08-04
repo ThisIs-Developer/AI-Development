@@ -7,7 +7,7 @@
 ```
 ## Image that are used
 
-**Get the images from:** [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")]
+**Get the images from:** ![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")
 
 [Mario.jpeg](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/Mario.jpeg)
 
