@@ -8,7 +8,8 @@
 ## Image that are used
 ![GridArt_20230804_220521622](https://github.com/ThisIs-Developer/Python/assets/109382325/c3888daa-f8e1-4f5f-ab05-8f2558848046)
 ## 🌟OpenCV🎨the Magic of Images
-**Addition Image**
+**Addition Image** 
+**Source Code:[OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
 ```bash
 image2 = cv2.resize(image2, (image1.shape[1], image1.shape[0]))
 if image1.shape[2] == 1:
@@ -17,6 +18,7 @@ weightedSum = cv2.addWeighted(image1, 0.5, image2, 0.4, 0)
 cv2.imshow('Weighted Image', weightedSum)
 if cv2.waitKey(0) & 0xFF == 27:
     cv2.destroyAllWindows()
+![addition_image](https://github.com/ThisIs-Developer/Python/assets/109382325/a426f3ca-d1a7-4a46-863b-f899ecb263a6)
 
 # Convert BGR image to RGB for plotting using matplotlib
 weightedSum_rgb = cv2.cvtColor(weightedSum, cv2.COLOR_BGR2RGB)
