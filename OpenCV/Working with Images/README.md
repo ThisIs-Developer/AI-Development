@@ -18,11 +18,9 @@ weightedSum = cv2.addWeighted(image1, 0.5, image2, 0.4, 0)
 cv2.imshow('Weighted Image', weightedSum)
 if cv2.waitKey(0) & 0xFF == 27:
     cv2.destroyAllWindows()
-![addition_image](https://github.com/ThisIs-Developer/Python/assets/109382325/a426f3ca-d1a7-4a46-863b-f899ecb263a6)
-
 # Convert BGR image to RGB for plotting using matplotlib
 weightedSum_rgb = cv2.cvtColor(weightedSum, cv2.COLOR_BGR2RGB)
 ```
-![bitwise_NOT](https://github.com/ThisIs-Developer/Python/assets/109382325/84ec9507-f3e0-4910-81e3-60ce55be17aa)
-![bitwise_OR](https://github.com/ThisIs-Developer/Python/assets/109382325/c7b174db-2bac-48a1-b279-88319c6b1584)
+![addition_image](https://github.com/ThisIs-Developer/Python/assets/109382325/a426f3ca-d1a7-4a46-863b-f899ecb263a6)
+
 
