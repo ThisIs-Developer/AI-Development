@@ -11,6 +11,8 @@
 
 [Mario.jpeg](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/Mario.jpeg)
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/Mario.jpeg)
+
 [jake.jpeg](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/jake.jpeg)
 
 ![GridArt_20230804_220521622 (3)](https://github.com/ThisIs-Developer/Python/assets/109382325/f7216c40-6763-45e4-9090-823a99a4315e)
