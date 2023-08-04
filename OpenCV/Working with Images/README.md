@@ -6,8 +6,7 @@
   pip install opencv-python
 ```
 ## Image that are used
-![129c80f1-f60a-415d-80fd-04965c6d156a](https://github.com/ThisIs-Developer/Python/assets/109382325/bd14fbd3-3f75-4b91-a408-5da3901fd2fc)
-
+![GridArt_20230804_220521622 (1)](https://github.com/ThisIs-Developer/Python/assets/109382325/32c25781-33c6-49a2-9cdb-854273361cac)
 
 ## 🌟OpenCV🎨the Magic of Images
 **Addition Image** 
