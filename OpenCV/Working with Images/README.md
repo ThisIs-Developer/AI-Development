@@ -8,6 +8,7 @@
 ## Image that are used
 
 **Get the images from:**
+
 [Mario.jpeg](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/Mario.jpeg)
 
 [jake.jpeg](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/jake.jpeg)
