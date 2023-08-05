@@ -24,6 +24,7 @@
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
 ![subtracted_image](https://github.com/ThisIs-Developer/Python/assets/109382325/ef5fc57a-bcd8-4004-8b4f-62d13bf9e5a2)
 
+
 **Bitwise OR Image** 
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Working%20with%20Images/OpenCV.ipynb)**
 ![bitwise_OR](https://github.com/ThisIs-Developer/Python/assets/109382325/0303e2dc-be00-484b-b5c6-80debff302f5)
