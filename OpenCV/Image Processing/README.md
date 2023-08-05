@@ -23,18 +23,16 @@
 **FindingContours** 
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Image%20Processing/OpenCV.ipynb)**
 ![contours_and_coordinates](https://github.com/ThisIs-Developer/Python/assets/109382325/590cc8ae-8113-4dc6-8b43-1d4c2b638ba5)
-![test_output](https://github.com/ThisIs-Developer/Python/assets/109382325/1bd1570c-c150-41da-b8d4-a2991322795b)
 
-
-**Simple Thresholding** 
+**Morphological Image Processing** 
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Image%20Processing/OpenCV.ipynb)**
-![combined_threshold_images](https://github.com/ThisIs-Developer/Python/assets/109382325/a172a28a-84fc-4fb6-ac8b-b1b373e714af)
+![morphological_image](https://github.com/ThisIs-Developer/Python/assets/109382325/1e522787-1d7e-4835-929c-bf1522b7f5da)
 
-**Simple Thresholding** 
+**Edge detection of Image** 
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Image%20Processing/OpenCV.ipynb)**
-![combined_threshold_images](https://github.com/ThisIs-Developer/Python/assets/109382325/a172a28a-84fc-4fb6-ac8b-b1b373e714af)
+![image_edges](https://github.com/ThisIs-Developer/Python/assets/109382325/7b5a6935-27c8-4b59-85f1-ddf7600badb2)
 
-**Simple Thresholding** 
+**Bilateral Filtering** 
 **Source Code: [OpenCV/OpenCV.ipynb](https://github.com/ThisIs-Developer/Python/blob/main/OpenCV/Image%20Processing/OpenCV.ipynb)**
-![combined_threshold_images](https://github.com/ThisIs-Developer/Python/assets/109382325/a172a28a-84fc-4fb6-ac8b-b1b373e714af)
+![image](https://github.com/ThisIs-Developer/Python/assets/109382325/f45e6587-98de-411c-86cb-628be5b7b540)
 
