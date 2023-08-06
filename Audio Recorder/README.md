@@ -31,6 +31,7 @@
 
 ## pyAudioAnalysis
 **A library for audio feature extraction, classification, and segmentation.**
+
 ## Essentia
 **An open-source library for audio analysis and audio-based music information retrieval tasks.**
 ## Madmom
