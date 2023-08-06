@@ -34,6 +34,7 @@
 
 ## Essentia
 **An open-source library for audio analysis and audio-based music information retrieval tasks.**
+
 ## Madmom
 **A library for music information retrieval tasks, including beat and onset detection, chord recognition, and more.**
 ## Aubio
