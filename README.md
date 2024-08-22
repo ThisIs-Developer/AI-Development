@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/iam-baivab/AI-Development.git
+    git clone https://github.com/ThisIs-Developer/AI-Development.git
     cd aidevelopment
     ```
 
@@ -92,6 +92,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 [license-shield]: https://img.shields.io/badge/License-MIT-red.svg
-[license-url]: https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
+[license-url]: https://github.com/ThisIs-Developer/AI-Development/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
