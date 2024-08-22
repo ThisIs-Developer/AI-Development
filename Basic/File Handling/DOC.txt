@@ -1,8 +1,0 @@
-Department : CSE,
-Roll : 123211003045,
-Name : Baivab Sarkar,
-SGPA : 8.89
-Department : IT,
-Roll : 123211003047,
-Name : Bhsimadev Ghosh,
-SGPA : 9.41

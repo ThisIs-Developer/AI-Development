@@ -1,4 +1,0 @@
-roll,name,mark
-1,Raj,29
-2,Vipin,23
-3,kamal,21
