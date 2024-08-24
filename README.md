@@ -41,16 +41,16 @@ To get started with this project, follow these steps:
 
 ### Running the Project
 
-1. **[Deep Learning Neural Networks (DL-NN)](https://github.com/iam-baivab/AI-Development/tree/main/DL-NN):**
+1. **[Deep Learning Neural Networks (DL-NN)](https://github.com/ThisIs-Developer/AI-Development/tree/main/DL-NN):**
     - This `DL-NN` folder is dedicated to deep learning and neural network projects. It includes code, models, and datasets related to training and deploying deep learning models using frameworks.
 
-2. **[Machine Learning (ML)](https://github.com/iam-baivab/AI-Development/tree/main/ML):**
+2. **[Machine Learning (ML)](https://github.com/ThisIs-Developer/AI-Development/tree/main/ML):**
     - The `ML` folder focuses on traditional machine learning algorithms and techniques. It contains code examples, notebooks, and datasets for tasks such as classification, regression, clustering, and dimensionality reduction.
 
-3. **[OpenCV](https://github.com/iam-baivab/AI-Development/tree/main/OpenCV):**
+3. **[OpenCV](https://github.com/ThisIs-Developer/AI-Development/tree/main/OpenCV):**
     - In the `OpenCV` folder, you will find resources for computer vision projects. This includes image and video processing, object detection and tracking, feature extraction, and other computer vision tasks using the OpenCV library.
 
-4. **[Python](https://github.com/iam-baivab/AI-Development/tree/main/Python):**
+4. **[Python](https://github.com/ThisIs-Developer/AI-Development/tree/main/Python):**
     - The `Python` folder contains general-purpose Python scripts and utilities that are used across different AI development projects. It includes helper functions, data preprocessing scripts, and other tools to streamline AI development workflows.
 
 ## Features
